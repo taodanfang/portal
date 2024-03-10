@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>产品更新记录 on 协同白板（Noteboard）</title>
+    <link>https://www.noteboard.online/talk/</link>
+    <description>Recent content in 产品更新记录 on 协同白板（Noteboard）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 Hanks</copyright>
+    <lastBuildDate>Fri, 01 Mar 2024 14:00:00 +0000</lastBuildDate><atom:link href="https://www.noteboard.online/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Noteboard (v1.0) 简要说明</title>
+      <link>https://www.noteboard.online/talk/2020-rmd4cdc/</link>
+      <pubDate>Fri, 01 Mar 2024 14:00:00 +0000</pubDate>
+      
+      <guid>https://www.noteboard.online/talk/2020-rmd4cdc/</guid>
+      <description>&lt;p&gt;Noteboard 是一款类似于 Milanote 的多用户协作白板笔记应用产品，其特色是同时支持“离线本地、在线云端”两种工作模式。其完整的功能特性如下：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;序号&lt;/th&gt;
+&lt;th&gt;核心功能&lt;/th&gt;
+&lt;th&gt;说明（除了匿名情况，其他均须登录后使用）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;卡片删除&lt;/td&gt;
+&lt;td&gt;硬删除（不可回收）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;卡片回收&lt;/td&gt;
+&lt;td&gt;软删除（回收站，容量受云端总量限制）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;内容存储&lt;/td&gt;
+&lt;td&gt;本地存储模式下，系统关闭后，内容自动保存，但受本地硬盘容量限制，对于数据丢失免责&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;布局模板&lt;/td&gt;
+&lt;td&gt;根据应用场景，可选特定模板（试卷、论文、海报等风格）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;内容导出&lt;/td&gt;
+&lt;td&gt;导出最终文档，可选导出格式（PDF、Word、PPT、Markdown、静态网页），免费版仅限导出 Markdown 格式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;快照导出&lt;/td&gt;
+&lt;td&gt;导出文档快照，可迁移到其他终端进行编辑（类似虚拟机快照），本地文档快照不支持包含附件的白板&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;网页同步&lt;/td&gt;
+&lt;td&gt;可在多个不同浏览器中打开进行同步&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;任务卡片&lt;/td&gt;
+&lt;td&gt;任务提醒、动态通知等&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;协同编辑&lt;/td&gt;
+&lt;td&gt;互动辅助&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;桌面同步&lt;/td&gt;
+&lt;td&gt;设备不含Web、手机&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;手机同步&lt;/td&gt;
+&lt;td&gt;通过手机，搜集备用素材（图片、文字、视频等）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;快照回放&lt;/td&gt;
+&lt;td&gt;支持在线录制和回放用户操作白板的过程（互动辅助）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;内容加密&lt;/td&gt;
+&lt;td&gt;可选卡片内容加密（云端数据防泄露，文档等级保护）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;白板交易&lt;/td&gt;
+&lt;td&gt;支持广告发布、模板售卖等商业活动&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;屏蔽广告&lt;/td&gt;
+&lt;td&gt;广告会随机覆盖卡片&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;业务模板&lt;/td&gt;
+&lt;td&gt;提供面向特定协作应用场景的业务流程模板（如审批等）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;业务分析&lt;/td&gt;
+&lt;td&gt;提供面向用户特定操作行为的数据分析以及业务分析报告&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;当前发布的免费体验试用版（Noteboard v1.0）包含了该产品的最小功能集：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持四种基本的卡片风格（text, note, image, column）&lt;/li&gt;
+&lt;li&gt;卡片的基本操作（新增、删除、拖拽、编辑等）&lt;/li&gt;
+&lt;li&gt;支持离线本地白板、在线云端共享白板&lt;/li&gt;
+&lt;li&gt;支持基本的数据管理（dashboard）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;后续体验版本中我们将逐步增加已经完成的高级功能和更多的卡片风格，欢迎您持续关注和使用！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
+
