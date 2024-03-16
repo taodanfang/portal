@@ -14,12 +14,14 @@
       <pubDate>Sun, 17 Mar 2024 02:04:45 +0800</pubDate>
       
       <guid>https://www.noteboard.online/talk/release-1.0.1/</guid>
-      <description>&lt;p&gt;新增功能：
-1）支持用户注册（采用邮箱及验证码）
-2）支持终端认证
-3）支持云端登录
-4）支持在线协作白板
-5）支持本地个人白板&lt;/p&gt;
+      <description>&lt;p&gt;新增功能：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持用户注册（采用邮箱及验证码）&lt;/li&gt;
+&lt;li&gt;支持终端认证&lt;/li&gt;
+&lt;li&gt;支持云端登录&lt;/li&gt;
+&lt;li&gt;支持在线协作白板&lt;/li&gt;
+&lt;li&gt;支持本地个人白板&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;后续体验版本中我们将逐步增加已经完成的高级功能和更多的卡片风格，欢迎您持续关注和使用！&lt;/p&gt;
 </description>
     </item>
